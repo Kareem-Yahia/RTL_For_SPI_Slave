@@ -1,5 +1,5 @@
-# RTL_For_SPI_Slave
-Project Title: Verilog SPI Slave
+# Project Title: Verilog SPI Slave
+The project completion date is October 16, 2022
 
 Description:
 The Verilog SPI Slave project is an implementation of a Serial Peripheral Interface (SPI) slave device in Verilog HDL.
